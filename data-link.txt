@@ -1,0 +1,1 @@
+Soem data is too big for Git. You can find the full data folder located here: https://drive.google.com/drive/folders/1BAx9TB9fzXrpXLwDGLpr1XLDlYcyHZiz?usp=sharing
